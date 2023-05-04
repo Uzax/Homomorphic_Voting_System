@@ -17,11 +17,9 @@ encryption scheme. In addition to prime integer factorization property to count 
 
 ```bash
 1. Add RSA_enc.py in both UntrustedS.py, DeclarationS.py, and Client.py directories
-2. Download pycryptodome library using
-	pip install pycryptodome
+2. Download pycryptodome library using pip install pycryptodome
 3. Run UntrustedS.py and DeclarationS.py first
-4. while UntrustedS.py and DeclarationS.py both are running run client.py 3 times each run add a vote.
-	Each vote should be a number representing the candidate as prompted
+4. while UntrustedS.py and DeclarationS.py both are running run client.py 3 times each run add a vote.Each vote should be a number representing the candidate as prompted
 5.Observe the output in DeclarationS.py
 
 ```
