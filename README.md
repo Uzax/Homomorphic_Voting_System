@@ -8,7 +8,7 @@ of the partially homomorphic encryption RSA system since it is multiplicative ho
 encryption scheme. In addition to prime integer factorization property to count the votes.
 ## Working Principle :
 
-![alt text]((https://github.com/Uzax/Homomorphic_Voting_System/blob/main/images/Steps.png?raw=true))
+![alt text](https://github.com/Uzax/Homomorphic_Voting_System/blob/main/images/Steps.png)
 
 
 
