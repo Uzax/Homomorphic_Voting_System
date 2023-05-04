@@ -10,7 +10,8 @@ encryption scheme. In addition to prime integer factorization property to count 
 
 ![alt text](https://github.com/Uzax/Homomorphic_Voting_System/blob/main/images/Steps.png)
 
-
+## Protocol : 
+![alt text](https://github.com/Uzax/Homomorphic_Voting_System/blob/main/images/Protocol.png)
 
 ## How to run the program:
 
@@ -24,8 +25,4 @@ encryption scheme. In addition to prime integer factorization property to count 
 5.Observe the output in DeclarationS.py
 
 ```
-    
-## Demo
-
-Insert gif or link to demo
-
+  
